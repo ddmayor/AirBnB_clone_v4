@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Mayowa Idowu - [Github](https://github.com/ddmyaor) / [Twitter](https://twitter.com/idmayor)  
+Mayowa Idowu - [Github](https://github.com/ddmayor) / [Twitter](https://twitter.com/idmayor)  
 
 Ezeanya ThankGod
 
